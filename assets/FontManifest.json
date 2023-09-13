@@ -1,0 +1,12 @@
+[
+    {
+      "family": "MavenPro",
+      "fonts": [
+        {
+          "asset": "fonts/maven_pro_black.ttf"
+        }
+      ]
+    },{"fonts":[{"asset":"fonts/MaterialIcons-Regular.ttf"}],"family":"MaterialIcons"}
+
+  ]
+
